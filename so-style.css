@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500&display=swap');
+@import url('https://fonts.cdnfonts.com/css/back-to-school');
+
+.pgina-de-sobre-mim {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pgina-de-sobre-mim .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1024px;
+}
+
+.pgina-de-sobre-mim .overlap {
+  position: relative;
+  width: 1928px;
+  height: 1024px;
+}
+
+.pgina-de-sobre-mim .image {
+  position: absolute;
+  width: 1920px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pgina-de-sobre-mim .img {
+  position: absolute;
+  width: 821px;
+  height: 877px;
+  top: 57px;
+  left: 0;
+  object-fit: cover;
+}
+
+.pgina-de-sobre-mim .biografia-da {
+  position: absolute;
+  width: 764px;
+  top: 225px;
+  left: 779px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .text-wrapper {
+  font-weight: 1000;
+  color: #551A8B;
+  font-family: "Darker Grotesque", sans-serif;
+}
+
+.pgina-de-sobre-mim .span {
+  color: #000;
+  font-family: "Darker Grotesque", sans-serif;
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .rectangle {
+  position: absolute;
+  width: 1920px;
+  height: 90px;
+  top: 934px;
+  left: 0;
+  background-color: #551A8B;;
+}
+
+.pgina-de-sobre-mim .image-2 {
+  position: absolute;
+  width: 83px;
+  height: 26px;
+  top: 952px;
+  left: 918px;
+}
+
+.pgina-de-sobre-mim .element-luciana-todos {
+  position: absolute;
+  top: 974px;
+  left: 748px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .navbar {
+  position: absolute;
+  width: 1928px;
+  height: 96px;
+  top: 0;
+  left: 0;
+}
+
+.pgina-de-sobre-mim .div {
+  position: relative;
+  width: 1920px;
+  height: 96px;
+  background-color: #e4c7ff;
+}
+
+.pgina-de-sobre-mim .text-wrapper-2 {
+  left: 971px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .text-wrapper-3 {
+  left: 1045px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .text-wrapper-4 {
+  left: 890px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .text-wrapper-5 {
+  left: 790px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", sans-serif;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-sobre-mim .logo-luciana {
+  position: absolute;
+  width: 216px;
+  height: 67px;
+  top: 22px;
+  left: 184px;
+}
+
+.pgina-de-sobre-mim .ic-baseline-email {
+  left: 1620px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+}
+
+.pgina-de-sobre-mim .ic-baseline-facebook {
+  left: 1706px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+}
+
+.pgina-de-sobre-mim .mdi-instagram {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  left: 1663px;
+}
+
+.text-wrapper-ct {
+  left: 1151px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.email {
+  left: 1620px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  font-size: 30px;
+}
+
+.facebook {
+  left: 1706px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  font-size: 30px;
+}
+
+.instagram {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  left: 1663px;
+  font-size: 30px;
+}

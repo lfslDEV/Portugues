@@ -1,0 +1,453 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@500&display=swap');
+@import url('https://fonts.cdnfonts.com/css/back-to-school');
+.pgina-de-compra {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.pgina-de-compra .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1920px;
+  height: 1024px;
+}
+
+.pgina-de-compra .overlap {
+  position: relative;
+  width: 1928px;
+  height: 1024px;
+}
+
+.pgina-de-compra .image {
+  position: absolute;
+  width: 1920px;
+  height: 1024px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.pgina-de-compra .rectangle {
+  position: absolute;
+  width: 341px;
+  height: 382px;
+  top: 377px;
+  left: 368px;
+  background-color: #c595f1;
+  border-radius: 34px;
+  border: 3px solid;
+  border-color: #551A8B;
+}
+
+.pgina-de-compra .div {
+  position: absolute;
+  width: 362px;
+  height: 382px;
+  top: 380px;
+  left: 778px;
+  background-color: #c595f1;
+  border-radius: 34px;
+  border: 3px solid;
+  border-color: #551A8B;
+}
+
+.pgina-de-compra .rectangle-2 {
+  position: absolute;
+  width: 341px;
+  height: 382px;
+  top: 379px;
+  left: 1210px;
+  background-color: #c595f1;
+  border-radius: 34px;
+  border: 3px solid;
+  border-color: #551A8B;
+}
+
+.pgina-de-compra .rectangle-3 {
+  position: absolute;
+  width: 283px;
+  height: 54px;
+  top: 728px;
+  left: 397px;
+  background-color: #d7affd;
+  border-radius: 27px;
+}
+
+.pgina-de-compra .rectangle-4 {
+  position: absolute;
+  width: 303px;
+  height: 54px;
+  top: 353px;
+  left: 387px;
+  background-color: #d7affd;
+  border-radius: 27px;
+}
+
+.pgina-de-compra .rectangle-5 {
+  position: absolute;
+  width: 283px;
+  height: 54px;
+  top: 732px;
+  left: 817px;
+  background-color: #d7affd;
+  border-radius: 27px;
+}
+
+.pgina-de-compra .rectangle-6 {
+  position: absolute;
+  width: 283px;
+  height: 54px;
+  top: 353px;
+  left: 816px;
+  background-color: #d7affd;
+  border-radius: 27px;
+}
+
+.pgina-de-compra .rectangle-7 {
+  position: absolute;
+  width: 283px;
+  height: 54px;
+  top: 734px;
+  left: 1239px;
+  background-color: #d7affd;
+  border-radius: 27px;
+}
+
+.pgina-de-compra .rectangle-8 {
+  position: absolute;
+  width: 283px;
+  height: 54px;
+  top: 347px;
+  left: 1239px;
+  background-color: #d7affd;
+  border-radius: 27px;
+}
+
+.pgina-de-compra .text-wrapper {
+  position: absolute;
+  top: 188px;
+  left: 669px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-2 {
+  position: absolute;
+  top: 734px;
+  left: 451px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-3 {
+  top: 737px;
+  left: 871px;
+  position: absolute;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-4 {
+  top: 736px;
+  left: 1293px;
+  position: absolute;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-5 {
+  position: absolute;
+  top: 333px;
+  left: 1310px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 900;
+  color: #551A8B;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-6 {
+  position: absolute;
+  top: 341px;
+  left: 880px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 900;
+  color: #551A8B;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-7 {
+  position: absolute;
+  top: 341px;
+  left: 408px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 900;
+  color: #551A8B;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .pre-o-por-hora-r {
+  top: 450px;
+  left: 389px;
+  position: absolute;
+  width: 299px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .span {
+  font-weight: 900;
+}
+
+.pgina-de-compra .text-wrapper-8 {
+  font-weight: 800;
+}
+
+.pgina-de-compra .text-wrapper-9 {
+  font-weight: 500;
+}
+
+.pgina-de-compra .pre-o-por-hora-por {
+  position: absolute;
+  width: 336px;
+  top: 445px;
+  left: 791px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .p {
+  top: 452px;
+  left: 1231px;
+  position: absolute;
+  width: 299px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 26px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .rectangle-9 {
+  position: absolute;
+  width: 1920px;
+  height: 78px;
+  top: 946px;
+  left: 0;
+  background-color: #551A8B;
+}
+
+.pgina-de-compra .img {
+  position: absolute;
+  width: 83px;
+  height: 26px;
+  top: 956px;
+  left: 918px;
+}
+
+.pgina-de-compra .element-luciana-todos {
+  position: absolute;
+  top: 981px;
+  left: 748px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: white;
+  font-size: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-10 {
+  position: absolute;
+  top: 545px;
+  left: 726px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-11 {
+  position: absolute;
+  top: 546px;
+  left: 1157px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #551A8B;
+  font-size: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .navbar {
+  position: absolute;
+  width: 1928px;
+  height: 96px;
+  top: 0;
+  left: 0;
+}
+
+.pgina-de-compra .navbar-2 {
+  position: relative;
+  width: 1920px;
+  height: 96px;
+  background-color: #e4c7ff;
+}
+
+.pgina-de-compra .text-wrapper-12 {
+  left: 971px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #003e9b;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-13 {
+  left: 1045px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #003e9b;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-14 {
+  left: 890px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #003e9b;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .text-wrapper-15 {
+  left: 790px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #003e9b;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.pgina-de-compra .logo-luciana {
+  position: absolute;
+  width: 216px;
+  height: 67px;
+  top: 22px;
+  left: 184px;
+}
+
+.pgina-de-compra .ic-baseline-email {
+  left: 1620px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+}
+
+.pgina-de-compra .ic-baseline-facebook {
+  left: 1706px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+}
+
+.pgina-de-compra .mdi-instagram {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  left: 1663px;
+}
+.text-wrapper-ct {
+  left: 1151px;
+  position: absolute;
+  top: 35px;
+  font-family: "Darker Grotesque", Helvetica;
+  font-weight: 800;
+  color: #003e9b;
+  font-size: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+.email {
+  left: 1620px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  font-size: 30px;
+}
+
+.facebook {
+  left: 1706px;
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  font-size: 30px;
+}
+
+.instagram {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 27px;
+  left: 1663px;
+  font-size: 30px;
+}
